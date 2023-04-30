@@ -8,7 +8,7 @@ export default function BlogSlug(){
 
     return (
         <>
-            <h1>Blog Title {slug}</h1>
+            <h1>Blog {slug}</h1>
         </>
     )
 }
