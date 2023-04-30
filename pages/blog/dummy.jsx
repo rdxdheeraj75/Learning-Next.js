@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function FirstBlog(){
+export default function Dummy(){
     return (
         <>
-            <h1>First Blog</h1>
+            <h1>Dummy...</h1>
         </>
     )
 }

@@ -1,1 +1,1 @@
-Nested Routing in Next.js
+Dynamic Routing in Next.js
